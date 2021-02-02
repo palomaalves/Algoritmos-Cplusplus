@@ -1,7 +1,8 @@
 # Algoritmos Ling C C++
- Repositório dos Exercícios da Disciplaina Algoritmos e Programação em Linguagem C/C++
+ Repositório dos Exercícios da Disciplina Programação em Linguagem C/C++
 
- Projetos da Disciplina Algoritmos e Programação em C/C++. A disciplina apresentou os conceitos fundamentais da lógica aplicada à programação de computadores e resolução de problemas por meio de métodos e técnicas computacionais. Teve como objetivos:
+ Projetos da Disciplina Programação em C/C++. 
+ A disciplina apresentou os conceitos fundamentais da lógica aplicada à programação de computadores e resolução de problemas por meio de métodos e técnicas computacionais. Teve como objetivos:
 
 1.Desenvolver a lógica de programação através de uma linguagem de programação estruturada; 
 2.Interpretar textos para identificar os componentes básicos visando a criação de uma solução; 
@@ -16,4 +17,6 @@ Exercicíos com:
 3- Estrutura de Seleção Switch. 
 4- Estrutura Condicionais. 
 5- Estruturas de Repetição While e For. 
-6- Vetores 7- Matrizes
+6- Vetores 
+7- Matrizes
+8- Ponteiros etc...
