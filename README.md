@@ -10,4 +10,10 @@
 5.Avaliar algoritmos utilizando teste de mesa; 
 6.Implementar algoritmos simples utilizando linguagem de programação C/C++..
 
-Exercicíos com: 1- Estrutura de Variáveis e Operações. 2- Estrutura de Decisão. 3- Estrutura de Seleção Switch. 4- Estrutura Condicionais. 5- Estruturas de Repetição While e For. 6- Vetores 7- Matrizes
+Exercicíos com: 
+1- Estrutura de Variáveis e Operações. 
+2- Estrutura de Decisão. 
+3- Estrutura de Seleção Switch. 
+4- Estrutura Condicionais. 
+5- Estruturas de Repetição While e For. 
+6- Vetores 7- Matrizes
