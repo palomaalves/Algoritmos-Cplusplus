@@ -1,5 +1,5 @@
 # Algoritmos Ling C C++
- Repositório dos Exercícios da Disciplina Programação em Linguagem C/C++
+ Repositório dos Exercícios da Disciplina Programação em Linguagem C/C++. Arquivos.c e arquivos.cpp
 
  Projetos da Disciplina Programação em C/C++. 
  A disciplina apresentou os conceitos fundamentais da lógica aplicada à programação de computadores e resolução de problemas por meio de métodos e técnicas computacionais. Teve como objetivos:
